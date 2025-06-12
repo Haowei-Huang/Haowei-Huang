@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haowei-huang&label=Profile%20views&color=0e75b6&style=flat" alt="haowei-huang" /> </p>
 
-- 🔭 I’m currently working on **my-profolio**
+- 🔭 I’m currently working on **fast-api-backend**
 
-- 🌱 I’m currently learning **Fast API, Next.js, AWS, Github Actions**
+- 🌱 I’m currently learning **Fast API, Kubernetes, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
